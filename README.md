@@ -77,6 +77,3 @@ Results are aggregated into CSV files with the following structure:
 - **Rate Limiting**: Be aware of the scraping frequency to avoid triggering server-side protections.
 - **Graceful Shutdown**: The system supports progress saving via the `Ctrl+C` interrupt.
 
-## License
-
-This system is provided for research and educational purposes.
